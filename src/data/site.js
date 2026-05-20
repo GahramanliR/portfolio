@@ -136,7 +136,7 @@ export const achievements = [
   },
   {
     year: '2022',
-    title: '"Hour of Code" Algorithms & Problem Solving Contest',
+    title: '"Hour of Code" Algorithms & Problem Solving Contest - 2nd place',
     category: 'Algorithms & Problem Solving Contest',
   },
 ]
